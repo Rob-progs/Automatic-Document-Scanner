@@ -220,4 +220,4 @@ cv2.imshow("Scanned", th)
 filename = 'savedImage.jpg'
 cv2.imwrite(filename, th)
 
-cv2.waitKey(0
+cv2.waitKey(0)
